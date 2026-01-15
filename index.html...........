@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuta Ativa | Terapia Holística Online</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, #7aa095, #a8c3b8);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        header p {
+            font-size: 1.2em;
+        }
+
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+
+        h2 {
+            color: #5f7f75;
+            margin-bottom: 15px;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .cta {
+            background-color: #5f7f75;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .cta a {
+            display: inline-block;
+            margin-top: 15px;
+            background-color: white;
+            color: #5f7f75;
+            padding: 12px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #333;
+            color: #ccc;
+            text-align: center;
+            padding: 15px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Escuta Ativa</h1>
+        <p>Terapia Holística Online para equilíbrio emocional e bem-estar</p>
+    </header>
+
+    <section>
+        <div class="card">
+            <h2>Sobre a Escuta Ativa</h2>
+            <p>
+                A Escuta Ativa é um espaço de acolhimento e cuidado, dedicado ao
+                equilíbrio emocional, energético e mental. A terapia holística
+                considera o ser humano de forma integral, respeitando sua
+                individualidade, história e momento de vida.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>O que é Terapia Holística?</h2>
+            <p>
+                A terapia holística trabalha corpo, mente e emoções de forma integrada,
+                auxiliando no autoconhecimento, no alívio do estresse, da ansiedade
+                e no fortalecimento do bem-estar emocional.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Atendimento Online</h2>
+            <ul>
+                <li>Sessões realizadas 100% online</li>
+                <li>Ambiente seguro, sigiloso e acolhedor</li>
+                <li>Flexibilidade de horários</li>
+                <li>Conforto de ser atendido(a) onde estiver</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Benefícios</h2>
+            <ul>
+                <li>Autoconhecimento e clareza emocional</li>
+                <li>Redução do estresse e da ansiedade</li>
+                <li>Equilíbrio emocional e energético</li>
+                <li>Melhora da qualidade de vida</li>
+            </ul>
+        </div>
+    </section>
+
+    <div class="cta">
+        <h2>Agende seu atendimento</h2>
+        <p>
+            Entre em contato para mais informações ou para agendar sua sessão online.
+        </p>
+        <a href="https://wa.me/5527981828546" target="_blank">Falar pelo WhatsApp</a>
+    </div>
+
+    <footer>
+        © 2026 Escuta Ativa – Terapia Holística Online
+    </footer>
+
+</body>
+</html>
+
+<img src="danielleterapeutajpg" alt="Descrição da imagem">
+
